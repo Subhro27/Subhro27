@@ -6,7 +6,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1200&color=4F8EF7&center=true&vCenter=true&width=700&lines=Product+Designer;Data+Analyst;AI+%26+ML+Student;Designing+Products+with+Data" alt="Typing SVG" />
 </p>
 
-<img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Full--Time-success?style=for-the-badge" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Subhro27&label=Profile%20Views&color=4F8EF7&style=for-the-badge" alt="Profile Views" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Subhro Ghosh</h1>
 
