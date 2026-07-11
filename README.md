@@ -77,13 +77,6 @@ Designing intuitive digital experiences while uncovering meaningful insights thr
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
 </p>
 
-### 💻 Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript,git,github,vscode" />
-</p>
-
----
 
 # 🌱 Currently Working On
 
@@ -101,9 +94,9 @@ Designing intuitive digital experiences while uncovering meaningful insights thr
 
 | Project | Description | Link |
 |----------|-------------|------|
-| 🚀 **VAYO** | Designed product experiences during my Product Design Internship at **Laneway India** for **VAYO**, a community-first social platform focused on meaningful connections. | 🔗 [Explore Project](YOUR_VAYO_NOTION_LINK) |
-| 💸 **FLOWFI** | Designed a modern personal finance platform focused on budgeting, expense tracking and financial insights with a clean user experience. | 🔗 [Explore Case Study](YOUR_FLOWFI_NOTION_LINK) |
-| 🛠 **ISSUEFLOW** | Designed an issue tracking and workflow management platform to streamline collaboration and improve team productivity. | 🔗 [Explore Case Study](YOUR_ISSUEFLOW_NOTION_LINK) |
+| 🚀 **VAYO** | Designed product experiences during my Product Design Internship at **Laneway India** for **VAYO**, a community-first social platform focused on meaningful connections. | 🔗 [Explore Project](https://www.askvayo.com) |
+| 💸 **FLOWFI** | Designed a modern personal finance platform focused on budgeting, expense tracking and financial insights with a clean user experience. | 🔗 [Explore Case Study](https://dramatic-lyre-4ea.notion.site/FlowFi-Personal-Finance-UX-Case-Study-3390d6817a4380298125d7fd2297dedb?source=copy_link) |
+| 🛠 **ISSUEFLOW** | Designed an issue tracking and workflow management platform to streamline collaboration and improve team productivity. | 🔗 [Explore Case Study](https://dramatic-lyre-4ea.notion.site/IssueFlow-AI-Powered-Campus-Maintenance-System-Case-Study-34b0d6817a438094a795e1f6234c9879?source=copy_link) |
 
 ---
 
@@ -111,7 +104,7 @@ Designing intuitive digital experiences while uncovering meaningful insights thr
 
 | Project | Description | Repository |
 |----------|-------------|------------|
-| 📈 **01_World_Layoffs_Data_Cleaning** | Cleaned and standardized a real-world layoffs dataset using SQL, including duplicate removal, null handling, data transformation and standardization. | 💻 [GitHub Repository](https://github.com/Subhro27/01_World_Layoffs_Data_Cleaning) |
+| 📈 **01_World_Layoffs_Data_Cleaning** | Cleaned and standardized a real-world layoffs dataset using SQL, including duplicate removal, null handling, data transformation and standardization. | 💻 [GitHub Repository](https://github.com/Subhro27/WORLD_LAYOFFS_DATA_CLEAN_SQL.git) |
 
 ---
 
