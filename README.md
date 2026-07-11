@@ -172,3 +172,9 @@ Designing intuitive digital experiences while uncovering meaningful insights thr
 ✨ Design with empathy. Analyze with purpose. Build with impact.
 
 </h3>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Subhro27/Subhro27/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
