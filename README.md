@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Subhro27&label=Profile%20Views&color=4F8EF7&style=for-the-badge" alt="Profile Views" />
+ <img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Full--Time-success?style=for-the-badge" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Subhro Ghosh</h1>
