@@ -140,7 +140,9 @@ Designing intuitive digital experiences while uncovering meaningful insights thr
 
 | Project | Description | Repository |
 |----------|-------------|------------|
-| 📈 **World Layoffs Data Cleaning** | Cleaned and standardized a real-world layoffs dataset using SQL through duplicate removal, null handling, data transformation and standardization. | 💻 [GitHub Repository](https://github.com/Subhro27/WORLD_LAYOFFS_DATA_CLEAN_SQL) |
+| 📈 **World Layoffs Data Cleaning** | Cleaned and standardized a real-world layoffs dataset using SQL through duplicate removal, null handling, data transformation, and standardization. | 💻 [GitHub Repository](https://github.com/Subhro27/WORLD_LAYOFFS_DATA_CLEAN_SQL) |
+| 🔍 **World Layoffs Exploratory Data Analysis** | Performed exploratory data analysis using SQL to uncover trends in layoffs across industries, countries, companies, funding stages, and time periods through advanced queries and business insights. | 💻 [GitHub Repository](https://github.com/Subhro27/WORLD_LAYOFFS_EDA_BUSINESS_INSIGHTS.git) |
+| 📊 **Sales Performance Dashboard** | Built an interactive Microsoft Excel dashboard featuring KPI cards, pivot tables, slicers, and dynamic charts to analyze sales performance, profitability, customer segments, regional trends, and business insights. | 💻 [GitHub Repository](https://github.com/Subhro27/SALES-ANALYTICS-DASHBOARD-EXCEL.git) |
 
 ---
 
